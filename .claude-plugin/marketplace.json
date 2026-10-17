@@ -1,0 +1,12 @@
+{
+  "name": "feedpik",
+  "description": "Feedpik's agent skill and MCP connection.",
+  "owner": { "name": "Feedpik", "url": "https://feedpik.com" },
+  "plugins": [
+    {
+      "name": "feedpik",
+      "source": "./",
+      "description": "Read and tune your Feedpik news feed — ranking that belongs to you, changed by conversation, audited and reversible."
+    }
+  ]
+}

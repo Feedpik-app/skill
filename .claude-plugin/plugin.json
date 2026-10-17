@@ -1,0 +1,23 @@
+{
+  "name": "feedpik",
+  "displayName": "Feedpik",
+  "version": "0.7.2",
+  "description": "Read and tune your Feedpik news feed — an RSS reader whose ranking algorithm belongs to you. Ask what is worth reading, get a briefing, change what your feed shows you, manage sources. Every change is audited and one call from being rolled back.",
+  "author": {
+    "name": "Feedpik",
+    "url": "https://feedpik.com"
+  },
+  "homepage": "https://feedpik.com",
+  "repository": "https://github.com/Feedpik-app/skill",
+  "license": "MIT",
+  "keywords": [
+    "rss",
+    "news",
+    "feed-reader",
+    "recommendations",
+    "personalization",
+    "reading",
+    "briefing"
+  ],
+  "privacyPolicyUrl": "https://feedpik.com/privacy"
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "feedpik": {
+      "type": "http",
+      "url": "https://feedpik.com/api/mcp"
+    }
+  }
+}
